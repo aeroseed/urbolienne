@@ -1,5 +1,5 @@
 You must identify the modifications in this text file.
-"These modifications are licensed under the TAPR Open Hardware License."
+These modifications are licensed under the TAPR Open Hardware License.
 
 -----BEGINING OF THE MODIFICATIONS-----
 
