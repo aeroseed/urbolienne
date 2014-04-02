@@ -1,0 +1,12 @@
+You must identify the modifications in this text file.
+"These modifications are licensed under the TAPR Open Hardware License."
+
+-----BEGINING OF THE MODIFICATIONS-----
+
+	-2014/04/02 - Theophile Bresson
+	First Release
+	
+	-
+
+
+-----END OF THE MODIFICATIONS-----
