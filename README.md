@@ -4,7 +4,8 @@ urbolienne
 You will find on this webpage all the documents relative to the AeroSeeD's wind turbine (the "urbolienne").
 
 ![Prototype of urbolienne](Images/IMG_1606.jpeg =299x400 "Prototype of urbolienne")
-![Prototype of urbolienne]<img src="Images/IMG_1606.jpeg =299x400" alt="Prototype of urbolienne" style="eight: 400px;"/>
+\centerline{\includegraphics[height=400px]{Images/IMG_1606.jpeg}}
+![Prototype of urbolienne]<img src="Images/IMG_1606.jpeg" alt="Prototype of urbolienne" style="eight: 400px;"/>
 
 Licenses
 --------
