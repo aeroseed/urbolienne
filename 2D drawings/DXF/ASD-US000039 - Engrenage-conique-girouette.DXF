@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2456773.291458947
+2456790.282349259
   9
 $TDUCREATE
  40
-2456773.24979228
+2456790.240682593
   9
 $TDUPDATE
  40
-2456773.291458958
+2456790.282349271
   9
 $TDUUPDATE
  40
-2456773.249792292
+2456790.240682604
   9
 $TDINDWG
  40
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{819DB443-0403-44ED-8024-781E0EDEC4F5}
+{5B9C1445-E58C-4FB4-B28C-8E97C42D73E1}
   9
 $VERSIONGUID
   2
@@ -2741,7 +2741,7 @@ AcDbMText
  72
      1
   1
-Copyright © 2014 Théophile Bresson, AeroSeeD SAS, Vincent Mauvady, David Vantyghem, Pascal Corradini
+Copyright © 2014 Théophile BRESSON, AeroSeeD SAS, Vincent MAUVADY, David VANTYGHEM, Pascal CORRADINI
   7
 SLDTEXTSTYLE0
  11
@@ -6671,7 +6671,7 @@ AcDbMText
  72
      1
   1
-Brut : Engrenage Conique POM C A1-234-16-25-1 de chez michaud chailly
+Brut : Engrenage Conique POM C A1-234-16-25-1 de chez MICHAUD CHAILLY
   7
 SLDTEXTSTYLE0
  73
@@ -13273,7 +13273,7 @@ AcDbDictionary
 281
      1
   3
-J:\Ingenierie\Projets INNOVANTS\HOWIT\Prototype-2013\Plans\dxfB1C4.bmp
+J:\Ingenierie\Projets INNOVANTS\HOWIT\Prototype-2013\Plans\dxf8BDC.bmp
 350
 46
   0
@@ -13383,7 +13383,7 @@ AcDbRasterImageDef
  90
         0
   1
-J:\Ingenierie\Projets INNOVANTS\HOWIT\Prototype-2013\Plans\dxfB1C4.bmp
+J:\Ingenierie\Projets INNOVANTS\HOWIT\Prototype-2013\Plans\dxf8BDC.bmp
  10
 400.0
  20
