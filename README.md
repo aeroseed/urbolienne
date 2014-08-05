@@ -5,7 +5,7 @@ You will find on this webpage all the documents relative to the AeroSeeD's wind 
 
 <img src="Images/IMG_1606.jpeg" alt="Prototype of urbolienne" style="eight:400px;" />
 
-Wiki : http://urbolienne.energinov.org/wiki/
+The Urbolienne Project : http://www.energinov.org
 
 
 Licenses
