@@ -1,6 +1,8 @@
 urbolienne
 ==========
 
+<a href="http://www.oshwa.org/definition/french/"><img src="Images/logotype open source hardware 64x67.png" alt="Prototype of urbolienne" style="eight:400px;" /></a>
+
 You will find on this webpage all the documents relative to the [AeroSeeD](http://www.aeroseed.com)'s wind turbine (the "urbolienne").
 
 <img src="Images/IMG_1606.jpeg" alt="Prototype of urbolienne" style="eight:400px;" />
