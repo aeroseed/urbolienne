@@ -11,7 +11,7 @@ The Urbolienne Project website : http://www.energinov.org
 Licenses
 --------
 
-<a href="http://www.oshwa.org/definition/french/"><img src="Images/logotype open source hardware 64x67.png" alt="Prototype of urbolienne" style="eight:400px;" /></a>
+<a href="http://www.oshwa.org/definition/"><img src="Images/logotype open source hardware 64x67.png" alt="Prototype of urbolienne" style="eight:400px;" /></a>
 
 The urbolienne's 2D drawings and 3D models are made available under the terms of the TAPR Open Hardware License (http://tapr.org/ohl). See the "TAPR license.txt" file that accompanies this distribution for the full text of the license.
 
